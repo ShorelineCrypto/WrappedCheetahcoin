@@ -7,8 +7,8 @@ What is Wrapped Cheetahcoin (WCHTA)?
 
 Wrapped Cheetahcoin is wrapped token on binance smart chain (BSC) with 1:1 backing from Cheetahcoin (CHTA)
  - 1:1 backing with Cheetahcoin (CHTA). Custodian is southXchange
- - Total token supply: 740 million WCHTA
- - Maximum token supply: 740 million WCHTA
+ - Total token supply: 210 million WCHTA
+ - Maximum token supply: 210 million WCHTA
  - WCHTA/CHTA swapping exchange: southXchange
 
 Major release version:

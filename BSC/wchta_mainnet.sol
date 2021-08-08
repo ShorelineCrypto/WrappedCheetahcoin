@@ -238,7 +238,7 @@ contract WrappedCheetahcoin is PausableToken {
         name = _name;
         symbol = _symbol;
         decimals = _decimals;
-        maxTotalSupply = 740000001 * 10**_decimals;     // 740 million supply cap
+        maxTotalSupply = 210000001 * 10**_decimals;     // 210 million supply cap
         totalSupply = _supply * 10**_decimals;
         balances[tokenOwner] = totalSupply;
         owner = tokenOwner;
